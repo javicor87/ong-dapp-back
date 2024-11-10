@@ -1,0 +1,1 @@
+export { CausaBeneficaDto } from './causa_benefica.dto';
